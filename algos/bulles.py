@@ -1,7 +1,6 @@
 from __future__ import annotations
-from functools import cache
 
-from lists.fonctions import random_number, random_numbers
+from lists.fonctions import random_numbers
 
 
 def minimum_at(pool: list[int | float]):
