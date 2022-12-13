@@ -1,0 +1,16 @@
+setup.py
+algos/__init__.py
+algos/bulles.py
+lists/__init__.py
+lists/fonctions.py
+students/__init__.py
+students/moyennes.py
+tests/__init__.py
+tests/affichages_test.py
+tests/boucles_test.py
+tests/liste_test.py
+tests/random_test.py
+tp.egg-info/PKG-INFO
+tp.egg-info/SOURCES.txt
+tp.egg-info/dependency_links.txt
+tp.egg-info/top_level.txt
