@@ -92,7 +92,8 @@ def main():
   numbers = random_numbers(10, 0, 10**2, int)
 
   print(index_minimum(numbers, 2, 8),
-        search_with_dichotomy_matching_in(50, numbers))
+        search_with_dichotomy_matching_in(50, numbers),
+        sep='\n')
 
 
 if __name__ == '__main__':
